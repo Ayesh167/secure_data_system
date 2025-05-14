@@ -1,0 +1,4 @@
+streamlit==1.27.0
+cryptography==39.0.2
+pyopenssl==23.2.0
+cffi==1.15.1
